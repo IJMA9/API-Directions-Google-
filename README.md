@@ -58,6 +58,7 @@ Aplicación desarrollada en Python que emplea la API de Google Maps para ofrecer
 ## Imágenes
 
 ### Captura de pantalla de la interfaz
-![Interfaz de usuario](https://ibb.co/KzR2sj7)
-![Interfaz de usuario](https://ibb.co/JdjkkSN)
+
+![Interfaz de usuario](https://ibb.co/KzR2sj)
+![Interfaz de usuario](https://i.ibb.co/X4xJJG9/Captura-desde-2024-05-28-22-16-39.png)
 
