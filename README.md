@@ -2,14 +2,11 @@
 Aplicación desarrollada en Python que emplea la API de Google Maps para ofrecer direcciones y rutas óptimas. Este proyecto es ideal para quienes estén interesados en aplicaciones de mapeo y geolocalización.
 
 ## Tabla de Contenidos
-- [Descripción](#descripción)
 - [Características](#características)
 - [Requisitos](#requisitos)
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Imágenes](#imágenes)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
 
 ## Características
 - Obtención de direcciones y rutas óptimas utilizando la API de Google Maps.
@@ -42,9 +39,10 @@ Aplicación desarrollada en Python que emplea la API de Google Maps para ofrecer
     ```
 
 4. Configura tu API Key de Google Maps:
-    
+    - Renombra el archivo `.env.example` a `.env` y agrega tu API Key:
+    ```env
     GOOGLE_MAPS_API_KEY=tu-api-key
-    
+    ```
 
 5. Ejecuta la aplicación:
     ```bash
@@ -60,17 +58,6 @@ Aplicación desarrollada en Python que emplea la API de Google Maps para ofrecer
 ## Imágenes
 
 ### Captura de pantalla de la interfaz
-![Interfaz de usuario](https://ibb.co/KzR2sj7),(https://ibb.co/JdjkkSN)
+![Interfaz de usuario](https://ibb.co/KzR2sj7)
+![Interfaz de usuario](https://ibb.co/JdjkkSN)
 
-### Código de ejemplo
-![Código de ejemplo](images/codigo_ejemplo.png)
-
-## Contribución
-1. Haz un fork del proyecto.
-2. Crea una nueva rama (`git checkout -b feature/nueva-caracteristica`).
-3. Haz tus cambios y comités (`git commit -am 'Agrega una nueva característica'`).
-4. Empuja la rama (`git push origin feature/nueva-caracteristica`).
-5. Abre un Pull Request.
-
-## Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
